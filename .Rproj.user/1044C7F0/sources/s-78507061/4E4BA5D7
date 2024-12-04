@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1733313670711.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4E4BA5D7",
+    "lastKnownWriteTime" : 1733313757,
+    "last_content_update" : 1733324116786,
+    "path" : "~/ExploratoryDataAnalysis_project2/Archive_file_download_project2.R",
+    "project_path" : "Archive_file_download_project2.R",
+    "properties" : {
+        "cursorPosition" : "13,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

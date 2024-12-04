@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1733314110605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A0BAC69",
+    "lastKnownWriteTime" : 1733314880,
+    "last_content_update" : 1733314880073,
+    "path" : "~/ExploratoryDataAnalysis_project2/Plot2.R",
+    "project_path" : "Plot2.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

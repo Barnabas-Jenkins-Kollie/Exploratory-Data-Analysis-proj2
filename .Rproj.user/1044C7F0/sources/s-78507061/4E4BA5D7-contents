@@ -1,0 +1,14 @@
+#Author: Jenkins J B KOllie
+# Downloading the Nei zip data if the file is not found
+Nei_data <- "NEI_data.zip"
+
+if(!file.exists(Nei_data)) {
+  
+  Nei_data_URL <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
+  
+  download.file(url=Nei_data_URL,destfile=Nei_data)
+}
+
+if(!(file.exists("summarySCC_PM25.rds") && file.exists("Source_Classification_Code.rds"))) { 
+  unzip(Nei_data) 
+}
